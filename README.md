@@ -17,3 +17,11 @@ Siga o tutorial abaixo
  Controles:
 - Use mouse para navegar
 - Ctrl+Enter para avançar rapidamente nas respostas
+
+Camilla Cassia - G9014B3
+
+Julia Holanda -  R0563F3
+
+Fernanda Aparecida - G722IF0
+
+Eduarda -
