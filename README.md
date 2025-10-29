@@ -1,4 +1,4 @@
-# Tarefa-Complementar-NP2
+# Baixe o arquivo zip para testar!!
 Um  jogo bem básico.
 Siga o tutorial abaixo
 
