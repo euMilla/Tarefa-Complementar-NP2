@@ -13,9 +13,11 @@ Siga o tutorial abaixo
 1. Configurar MySQL com `divertidamente.sql`
 2. Compilar: `javac -cp "mysql-connector-j-9.5.0.jar" *.java`
 3. Executar: `java -cp ".;mysql-connector-j-9.5.0.jar" Main`
+   
    ou
-4. Jogue extraindo a pasta zip com Windows: executar_jogo.bat
-5. Se for Linux: execute_jogo.sh
+   
+5. Jogue extraindo a pasta zip com Windows: executar_jogo.bat
+6. Se for Linux: execute_jogo.sh
 
  Controles:
 - Use mouse para navegar
