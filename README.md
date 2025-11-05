@@ -1,4 +1,4 @@
-# Baixe o arquivo zip para testar!!
+# Baixe o arquivo zip para testar ou assista ao vídeo!!
 Um  jogo bem básico.
 Siga o tutorial abaixo
 
