@@ -18,6 +18,8 @@ Siga o tutorial abaixo
    
 5. Jogue extraindo a pasta zip com Windows: executar_jogo.bat
 6. Se for Linux: execute_jogo.sh
+   ou
+7. Assista ao vídeo
 
  Controles:
 - Use mouse para navegar
