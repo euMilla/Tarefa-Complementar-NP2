@@ -80,3 +80,6 @@ SELECT p.id, i.nome as ilha, p.texto
 FROM perguntas p 
 JOIN ilhas i ON p.ilha_id = i.id 
 ORDER BY p.ilha_id, p.id;
+
+INSERT INTO jogadores (id, nome, nivel_autoconhecimento, ilhas_descobertas) 
+VALUES (1, 'Jogador Inicial Fixo', 0, 0);
